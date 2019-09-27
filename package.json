@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Here is the background generation page which will help you to identify how to set a interactive and wonderfull gradiant background",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodesWithAnkit/background-generator.git"
+  },
+  "keywords": [
+    "background-generator"
+  ],
+  "author": "Ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodesWithAnkit/background-generator/issues"
+  },
+  "homepage": "https://CodesWithAnkit.github.io/background-generator"
+}
